@@ -1,5 +1,5 @@
 # meetworth-release
-The release version of Meetworth, an android application that helps you meetup with your friends.
+The release version of [Meetworth](https://play.google.com/store/apps/details?id=com.jianyanli.meetworth), an android application that helps you meetup with your friends.
 
 # Local Setup
 To create apk or appbundle file locally:
